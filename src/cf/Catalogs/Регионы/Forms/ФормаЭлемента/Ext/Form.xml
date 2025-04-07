@@ -34,6 +34,7 @@
 		<InputField name="АдресНаАнглийском" id="7">
 			<DataPath>Объект.АдресНаАнглийском</DataPath>
 			<EditMode>EnterOnInput</EditMode>
+			<Height>2</Height>
 			<MultiLine>true</MultiLine>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="АдресНаАнглийскомКонтекстноеМеню" id="8"/>
