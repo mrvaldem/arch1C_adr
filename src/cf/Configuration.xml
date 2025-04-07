@@ -334,6 +334,7 @@
 			<Subsystem>Продажи</Subsystem>
 			<Subsystem>Финансы</Subsystem>
 			<Subsystem>ТоварныеЗапасы</Subsystem>
+			<Subsystem>МояПодсистема</Subsystem>
 			<StyleItem>ЦветТекстаСущественныхИзмененийДанных</StyleItem>
 			<StyleItem>ЦветТекстаНормальногоСостояния</StyleItem>
 			<StyleItem>ЦветТекстаОшибочногоСостояния</StyleItem>
@@ -395,6 +396,7 @@
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
 			<CommonModule>Коннектор</CommonModule>
+			<CommonModule>МойМодуль1</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
@@ -497,6 +499,7 @@
 			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
+			<Catalog>МойСправочник</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
